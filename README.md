@@ -2,6 +2,8 @@
 
 Auto Tab Timer is a browser extension that automatically closes tabs after a set countdown timer. This repo only the compiled versions of the extension for easy installation and use on both Google Chrome and Microsoft Edge.
 
+Perfect for falling asleep while watching youtube videos ([T90 Official](https://www.youtube.com/@T90Official)?)
+
 ## Features
 
 - **Automatic Tab Closure:** Set a timer for the active tab, and it will automatically close when the countdown reaches zero.
@@ -18,7 +20,7 @@ Auto Tab Timer is a browser extension that automatically closes tabs after a set
 
 ### Compiled Version
 
-You can also download the latest compiled version (ZIP file) from the release tag on the [Releases](#) page.
+You can also download the latest compiled version (ZIP file) from the release tag on the [Releases](https://github.com/tangent-tz/Auto-Tab-Timer/tags) page.
 
 ## Installation
 
